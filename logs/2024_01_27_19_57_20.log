@@ -1,0 +1,20 @@
+[2024-01-27 19:57:22,813] 22 root - INFO - Entered the data ingestion method or componenet
+[2024-01-27 19:57:22,813] 25 root - INFO - Read the dataset as dataframe
+[2024-01-27 19:57:22,828] 28 root - INFO - Created the raw data file
+[2024-01-27 19:57:22,828] 30 root - INFO - splitting the data
+[2024-01-27 19:57:22,828] 32 root - INFO - data is splitted
+[2024-01-27 19:57:22,844] 36 root - INFO - train and test data files are created
+[2024-01-27 19:57:22,844] 37 root - INFO - ingestion has been completed
+[2024-01-27 19:57:22,875] 52 root - INFO - Read train and test data
+[2024-01-27 19:57:22,875] 54 root - INFO - Columns in Train DataFrame:
+[2024-01-27 19:57:22,891] 55 root - INFO - Index(['age', 'sex', 'cp', 'trestbps', 'chol', 'fbs', 'restecg', 'thalach',
+       'exang', 'oldpeak', 'slope', 'ca', 'thal', 'target'],
+      dtype='object')
+[2024-01-27 19:57:22,891] 57 root - INFO - Columns in Test DataFrame:
+[2024-01-27 19:57:22,891] 58 root - INFO - Index(['age', 'sex', 'cp', 'trestbps', 'chol', 'fbs', 'restecg', 'thalach',
+       'exang', 'oldpeak', 'slope', 'ca', 'thal', 'target'],
+      dtype='object')
+[2024-01-27 19:57:22,891] 60 root - INFO - Obtaining preprocessing object
+[2024-01-27 19:57:22,891] 27 root - INFO - Data Transformation initiated
+[2024-01-27 19:57:22,891] 30 root - INFO - Numerical Pipeline Initiated
+[2024-01-27 19:57:22,891] 74 root - INFO - Splitting input and target features are done

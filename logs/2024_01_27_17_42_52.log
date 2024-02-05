@@ -1,0 +1,12 @@
+[2024-01-27 17:42:55,953] 22 root - INFO - Entered the data ingestion method or componenet
+[2024-01-27 17:42:55,968] 25 root - INFO - Read the dataset as dataframe
+[2024-01-27 17:42:55,984] 28 root - INFO - Created the raw data file
+[2024-01-27 17:42:55,984] 30 root - INFO - splitting the data
+[2024-01-27 17:42:56,000] 32 root - INFO - data is splitted
+[2024-01-27 17:42:56,015] 36 root - INFO - train and test data files are created
+[2024-01-27 17:42:56,015] 37 root - INFO - ingestion has been completed
+[2024-01-27 17:42:56,046] 53 root - INFO - Read train and test data
+[2024-01-27 17:42:56,046] 55 root - INFO - obtaining preprocessing object
+[2024-01-27 17:42:56,046] 26 root - INFO - Data Transformation initiated
+[2024-01-27 17:42:56,046] 32 root - INFO - Numerical Pipeline Initiated
+[2024-01-27 17:42:56,843] 69 root - INFO - splitting input and target features are done

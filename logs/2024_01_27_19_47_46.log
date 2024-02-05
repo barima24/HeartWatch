@@ -1,0 +1,26 @@
+[2024-01-27 19:48:03,881] 22 root - INFO - Entered the data ingestion method or componenet
+[2024-01-27 19:48:03,912] 25 root - INFO - Read the dataset as dataframe
+[2024-01-27 19:48:03,928] 28 root - INFO - Created the raw data file
+[2024-01-27 19:48:03,928] 30 root - INFO - splitting the data
+[2024-01-27 19:48:03,928] 32 root - INFO - data is splitted
+[2024-01-27 19:48:03,928] 36 root - INFO - train and test data files are created
+[2024-01-27 19:48:03,928] 37 root - INFO - ingestion has been completed
+[2024-01-27 19:48:03,959] 56 root - INFO - Read train and test data
+[2024-01-27 19:48:03,959] 58 root - INFO - Columns in Train DataFrame:
+[2024-01-27 19:48:03,959] 59 root - INFO - Index(['age', 'sex', 'target', 'chest_pain_type', 'cholestrol',
+       'resting_blood_pressure', 'fasting_blood_sugar',
+       'resting_electrocardiogram', 'max_heart_rate_achieved',
+       'exercise_induced_angina', 'st_depression', 'st_slope',
+       'num_major_vessels', 'thalassemia'],
+      dtype='object')
+[2024-01-27 19:48:03,959] 61 root - INFO - Columns in Test DataFrame:
+[2024-01-27 19:48:03,959] 62 root - INFO - Index(['age', 'sex', 'target', 'chest_pain_type', 'cholestrol',
+       'resting_blood_pressure', 'fasting_blood_sugar',
+       'resting_electrocardiogram', 'max_heart_rate_achieved',
+       'exercise_induced_angina', 'st_depression', 'st_slope',
+       'num_major_vessels', 'thalassemia'],
+      dtype='object')
+[2024-01-27 19:48:03,959] 64 root - INFO - Obtaining preprocessing object
+[2024-01-27 19:48:03,959] 27 root - INFO - Data Transformation initiated
+[2024-01-27 19:48:03,959] 34 root - INFO - Numerical Pipeline Initiated
+[2024-01-27 19:48:03,959] 78 root - INFO - Splitting input and target features are done

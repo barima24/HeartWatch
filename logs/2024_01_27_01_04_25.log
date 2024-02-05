@@ -1,0 +1,7 @@
+[2024-01-27 01:04:27,539] 20 root - INFO - Entered the data ingestion method or componenet
+[2024-01-27 01:04:27,555] 23 root - INFO - Read the dataset as dataframe
+[2024-01-27 01:04:27,570] 26 root - INFO - Created the raw data file
+[2024-01-27 01:04:27,570] 28 root - INFO - splitting the data
+[2024-01-27 01:04:27,570] 30 root - INFO - data is splitted
+[2024-01-27 01:04:27,570] 34 root - INFO - train and test data files are created
+[2024-01-27 01:04:27,570] 35 root - INFO - ingestion has been completed

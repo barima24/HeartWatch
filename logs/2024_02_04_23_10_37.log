@@ -1,0 +1,5 @@
+[2024-02-04 23:10:39,213] 96 werkzeug - WARNING -  * Debugger is active!
+[2024-02-04 23:10:39,213] 96 werkzeug - INFO -  * Debugger PIN: 102-863-830
+[2024-02-04 23:10:49,394] 29 root - INFO - data is submitted
+[2024-02-04 23:10:49,436] 96 werkzeug - INFO - 127.0.0.1 - - [04/Feb/2024 23:10:49] "POST / HTTP/1.1" 200 -
+[2024-02-04 23:15:18,084] 96 werkzeug - INFO -  * Detected change in 'c:\\users\\hp\\pycharmprojects\\heartdiseasepredict\\app.py', reloading

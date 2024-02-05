@@ -1,0 +1,17 @@
+[2024-01-29 21:31:27,897] 24 root - INFO - Entered the data ingestion method or componenet
+[2024-01-29 21:31:27,913] 27 root - INFO - Read the dataset as dataframe
+[2024-01-29 21:31:27,928] 30 root - INFO - Created the raw data file
+[2024-01-29 21:31:27,928] 32 root - INFO - splitting the data
+[2024-01-29 21:31:27,928] 34 root - INFO - data is splitted
+[2024-01-29 21:31:27,944] 38 root - INFO - train and test data files are created
+[2024-01-29 21:31:27,944] 39 root - INFO - ingestion has been completed
+[2024-01-29 21:31:27,975] 53 root - INFO - Read train and test data
+[2024-01-29 21:31:27,975] 55 root - INFO - obtaining preprocessing object
+[2024-01-29 21:31:27,991] 26 root - INFO - Data Transformation initiated
+[2024-01-29 21:31:27,991] 32 root - INFO - Numerical Pipeline Initiated
+[2024-01-29 21:31:27,991] 67 root - INFO - splitting input and target features are done
+[2024-01-29 21:31:28,006] 73 root - INFO - Applying preprocessing in training and test data
+[2024-01-29 21:31:28,022] 81 root - INFO - preprocessing pickle file saved
+[2024-01-29 21:31:28,022] 30 root - INFO - splitting testing and training data
+[2024-01-29 21:31:28,256] 51 root - INFO - Model Report: {'LogisticRegression': 0.8146341463414634, 'Random Forest Classifier': 0.8926829268292683, 'Naive Bayes': 0.8195121951219512, 'Decision Tree': 0.9365853658536586, 'K-Nearest Neighbours': 0.8390243902439024}
+[2024-01-29 21:31:28,256] 64 root - INFO - Best Model Found, Model Name: Decision Tree, Accuracy Score: 0.9365853658536586

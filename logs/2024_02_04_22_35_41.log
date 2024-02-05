@@ -1,0 +1,7 @@
+[2024-02-04 22:35:43,237] 96 werkzeug - WARNING -  * Debugger is active!
+[2024-02-04 22:35:43,253] 96 werkzeug - INFO -  * Debugger PIN: 102-863-830
+[2024-02-04 22:36:34,253] 29 root - INFO - data is submitted
+[2024-02-04 22:36:34,266] 96 werkzeug - INFO - 127.0.0.1 - - [04/Feb/2024 22:36:34] "POST / HTTP/1.1" 200 -
+[2024-02-04 22:36:40,666] 29 root - INFO - data is submitted
+[2024-02-04 22:36:40,667] 96 werkzeug - INFO - 127.0.0.1 - - [04/Feb/2024 22:36:40] "POST / HTTP/1.1" 200 -
+[2024-02-04 22:42:44,209] 96 werkzeug - INFO -  * Detected change in 'C:\\Users\\hp\\PycharmProjects\\HeartDiseasePredict\\app.py', reloading

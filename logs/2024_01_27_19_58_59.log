@@ -1,0 +1,26 @@
+[2024-01-27 19:59:01,928] 22 root - INFO - Entered the data ingestion method or componenet
+[2024-01-27 19:59:01,944] 25 root - INFO - Read the dataset as dataframe
+[2024-01-27 19:59:01,944] 28 root - INFO - Created the raw data file
+[2024-01-27 19:59:01,944] 30 root - INFO - splitting the data
+[2024-01-27 19:59:01,960] 32 root - INFO - data is splitted
+[2024-01-27 19:59:01,960] 36 root - INFO - train and test data files are created
+[2024-01-27 19:59:01,960] 37 root - INFO - ingestion has been completed
+[2024-01-27 19:59:01,975] 52 root - INFO - Read train and test data
+[2024-01-27 19:59:01,975] 54 root - INFO - Columns in Train DataFrame:
+[2024-01-27 19:59:02,022] 55 root - INFO - Index(['age', 'sex', 'cp', 'trestbps', 'chol', 'fbs', 'restecg', 'thalach',
+       'exang', 'oldpeak', 'slope', 'ca', 'thal', 'target'],
+      dtype='object')
+[2024-01-27 19:59:02,022] 57 root - INFO - Columns in Test DataFrame:
+[2024-01-27 19:59:02,022] 58 root - INFO - Index(['age', 'sex', 'cp', 'trestbps', 'chol', 'fbs', 'restecg', 'thalach',
+       'exang', 'oldpeak', 'slope', 'ca', 'thal', 'target'],
+      dtype='object')
+[2024-01-27 19:59:02,022] 60 root - INFO - Obtaining preprocessing object
+[2024-01-27 19:59:02,022] 27 root - INFO - Data Transformation initiated
+[2024-01-27 19:59:02,022] 30 root - INFO - Numerical Pipeline Initiated
+[2024-01-27 19:59:02,022] 74 root - INFO - Splitting input and target features are done
+[2024-01-27 19:59:02,210] 83 root - INFO - Applying preprocessing in training and test data
+[2024-01-27 19:59:02,210] 86 root - INFO - Columns after applying preprocessing on Train Data:
+[2024-01-27 19:59:02,210] 87 root - INFO - ['age', 'sex', 'cp', 'trestbps', 'chol', 'fbs', 'restecg', 'thalach', 'exang', 'oldpeak', 'slope', 'ca', 'thal']
+[2024-01-27 19:59:02,210] 91 root - INFO - Columns after applying preprocessing on Test Data:
+[2024-01-27 19:59:02,210] 92 root - INFO - ['age', 'sex', 'cp', 'trestbps', 'chol', 'fbs', 'restecg', 'thalach', 'exang', 'oldpeak', 'slope', 'ca', 'thal']
+[2024-01-27 19:59:02,210] 101 root - INFO - Preprocessing pickle file saved

@@ -1,0 +1,7 @@
+[2024-02-04 23:21:39,306] 96 werkzeug - WARNING -  * Debugger is active!
+[2024-02-04 23:21:39,316] 96 werkzeug - INFO -  * Debugger PIN: 102-863-830
+[2024-02-04 23:21:39,574] 40 root - INFO - data entry in this function
+[2024-02-04 23:21:39,574] 29 root - INFO - data is submitted
+[2024-02-04 23:21:39,574] 58 root - INFO - entry in dataframe function
+[2024-02-04 23:21:39,582] 96 werkzeug - INFO - 127.0.0.1 - - [04/Feb/2024 23:21:39] "POST / HTTP/1.1" 200 -
+[2024-02-04 23:22:36,176] 96 werkzeug - INFO -  * Detected change in 'C:\\Users\\hp\\PycharmProjects\\HeartDiseasePredict\\src\\pipeline\\predict_pipeline.py', reloading

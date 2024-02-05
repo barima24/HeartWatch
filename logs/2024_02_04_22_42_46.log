@@ -1,0 +1,9 @@
+[2024-02-04 22:42:47,941] 96 werkzeug - WARNING -  * Debugger is active!
+[2024-02-04 22:42:47,954] 96 werkzeug - INFO -  * Debugger PIN: 102-863-830
+[2024-02-04 22:42:48,215] 96 werkzeug - INFO - 127.0.0.1 - - [04/Feb/2024 22:42:48] "POST / HTTP/1.1" 200 -
+[2024-02-04 22:42:48,244] 96 werkzeug - INFO - 127.0.0.1 - - [04/Feb/2024 22:42:48] "[36mGET /static/styles.css HTTP/1.1[0m" 304 -
+[2024-02-04 22:42:48,261] 96 werkzeug - INFO - 127.0.0.1 - - [04/Feb/2024 22:42:48] "[36mGET /static/heart.jpg HTTP/1.1[0m" 304 -
+[2024-02-04 22:43:33,965] 96 werkzeug - INFO - 127.0.0.1 - - [04/Feb/2024 22:43:33] "POST / HTTP/1.1" 200 -
+[2024-02-04 22:43:34,002] 96 werkzeug - INFO - 127.0.0.1 - - [04/Feb/2024 22:43:34] "[36mGET /static/styles.css HTTP/1.1[0m" 304 -
+[2024-02-04 22:43:34,016] 96 werkzeug - INFO - 127.0.0.1 - - [04/Feb/2024 22:43:34] "[36mGET /static/heart.jpg HTTP/1.1[0m" 304 -
+[2024-02-04 22:44:40,601] 96 werkzeug - INFO -  * Detected change in 'c:\\users\\hp\\pycharmprojects\\heartdiseasepredict\\app.py', reloading
